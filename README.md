@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Demo](https://your-live-site-url.com)
+- [Demo](https://interactive-rating-frontend-mentor.netlify.app/)
 
 ## My process
 
@@ -44,5 +44,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Vasant-Mestry-11](https://www.frontendmentor.io/profile/Vasant-Mestry-11)
